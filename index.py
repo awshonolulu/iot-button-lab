@@ -16,7 +16,7 @@ def lambda_handler(event, context):
     print(event)
     team_name = "my super awesome team"
     
-    twitter_status = "team:"+team_name +" finished the #cloudnhl iOT challenge"
+    twitter_status = "team:"+team_name +" finished the #cloudhnl iOT challenge"
 
 
     print(twitter_status)
